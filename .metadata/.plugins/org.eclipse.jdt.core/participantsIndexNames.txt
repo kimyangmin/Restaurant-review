@@ -1,0 +1,3 @@
+INDEX VERSION 1.134
+C:\Users\by\Desktop\Restaurant review\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2641088336.index
+\HRD001\src\main\java

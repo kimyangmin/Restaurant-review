@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+C:\Users\by\Desktop\Restaurant review\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+3517294693.index
+1715754020.index
+3334980501.index
+3014470503.index
+4089111963.index
+3933736644.index
