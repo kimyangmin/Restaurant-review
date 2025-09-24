@@ -3,10 +3,20 @@
 <!DOCTYPE html>
 <html>
 <head>
+<link rel="stylesheet" href="../css/index.css">
 <meta charset="UTF-8">
-<title>Insert title here</title>
+<title>맛집 추가</title>
 </head>
 <body>
 
+	<jsp:include page="../include/header.jsp"></jsp:include>
+	
+	<section id="section">
+		
+	</section>
+	
+	
+
+	
 </body>
 </html>
